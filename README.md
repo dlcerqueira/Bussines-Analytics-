@@ -1,4 +1,4 @@
-# Bussines-Analytics-
+# Bussines-Analytics
 Projeto de Segmentação de Clientes de um Food Delivery - Data Science Academy
 
 O Que é Segmentação de Clientes?
@@ -9,7 +9,7 @@ A segmentação de clientes é o processo de dividir os clientes em grupos com b
 
 Objetivo:
 
-Segmentar os clientes por tipo de pedido e localização, conseguir insigths para alavancar e direcionar as estratégis comerciais.
+Segmentar os clientes por tipo de pedido e localização, conseguir insigths para alavancar e direcionar as estratégias comerciais.
 
 Insights obtidos :
 
